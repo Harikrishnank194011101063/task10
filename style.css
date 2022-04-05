@@ -1,0 +1,32 @@
+#main-body {
+    display: grid;
+    grid-template-columns: minmax(300px,auto);   
+    grid-gap: 20px;
+    width:50px;
+    float: left;
+    text-size-adjust: 50px;
+    font-size: xx-small;
+}
+
+
+
+fieldset{
+  float: left;
+  background-color: rgb(185, 151, 216);
+ font-size: large;
+}
+li{
+    font-size: large;
+    position: relative;
+    left: 20px;
+    
+}
+p{
+    font-size:x-large;
+}
+h1{
+    background-color: rgb(12, 107, 250);
+    color: aliceblue;
+    position: relative;
+    right: 10px;
+}
